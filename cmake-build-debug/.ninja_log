@@ -1,0 +1,9 @@
+# ninja log v5
+5	2551	1687360787459999305	CMakeFiles/lab10_m.dir/monster.cpp.o	efc4c6d43b0e2a53
+4	2336	1687360787221684039	CMakeFiles/lab10_m.dir/classes.cpp.o	9aae6f3b5db48357
+18	4852	1687451825751208081	CMakeFiles/lab10_m.dir/hero.cpp.o	b95dc58a3759d981
+6	2373	1687360787281311984	CMakeFiles/lab10_m.dir/battleHistory.cpp.o	7ca746ff0274c156
+2	2324	1687360787218472235	CMakeFiles/lab10_m.dir/character.cpp.o	6d1f8c47736507d4
+20	5816	1687451826807260950	CMakeFiles/lab10_m.dir/items.cpp.o	daf7dc9e3b4dbda3
+17	5436	1687451826429417822	CMakeFiles/lab10_m.dir/main.cpp.o	cd5cf30d64f4877d
+5816	6069	1687451827071754447	lab10_m	d2a75d0e7bb471cc
